@@ -6,3 +6,4 @@ Finding donors project was a project that was performed as a first assignment on
 
 
 ## Installation
+The code should run using the stadard Python packages (Python versions 3.*).
